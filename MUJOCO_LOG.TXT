@@ -1,0 +1,3 @@
+Thu Nov  9 19:35:26 2023
+WARNING: mju_openResource: unknown file '/common/home/st1122/Projects/mushr/mujoco_environments/envs/assets/skydio_x2/x2_obstacles.xml'
+
